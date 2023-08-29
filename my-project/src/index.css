@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Inter-variable;
+  src: url(./assets/fonts/Inter-VariableFont_slnt\wght.ttf) format(ttf);
+  src: url(./assets/fonts/static/Inter-Bold.ttf) format(ttf);
+  src: url(./assets/fonts/static/Inter-ExtraBold.ttf) format(ttf);
+  src: url(./assets/fonts/static/Inter-Regular.ttf) format(ttf);
+}
